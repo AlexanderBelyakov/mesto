@@ -9,7 +9,7 @@
 
 .profile__edit-button:hover {
   opacity: .6;
-  transition: .4s linear ;
+  transition: .4s linear;
 }
 
 @media (min-width: 320px) and (max-width: 879px) {
