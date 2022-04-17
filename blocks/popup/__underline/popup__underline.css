@@ -1,0 +1,13 @@
+.popup__underline {
+  width: 358px;
+  opacity: 0.2;
+  border: 1px solid #000000;
+  padding: 0;
+  margin-bottom: 30px;
+}
+
+@media (min-width: 320px) and (max-width: 879px) {
+  .popup__underline {
+    width: 238px;
+  }
+}
